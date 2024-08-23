@@ -1,0 +1,10 @@
+.product-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  /* Custom modal width */
+.custom-modal .modal-dialog {
+  max-width: 80%; /* Adjust the width as needed */
+}
